@@ -1,0 +1,9 @@
+li=[int(i) for i in input("Enter values: ").split()]
+li.sort(reverse=True)
+print(li)
+
+C:\Users\nitin\AppData\Local\Programs\Python\Python39-32\python.exe C:/Users/nitin/PycharmProjects/untitled/Tut11.py
+Enter values: 20 56 98 15 63 25 94
+[98, 94, 63, 56, 25, 20, 15]
+
+Process finished with exit code 0
